@@ -1,25 +1,24 @@
-# Python CLI Utilities
+Python Projects
+================
 
 Status
 
-🚧 Planned
+🚧 Active
 
 Purpose
 
-A collection of practical Python command-line utilities developed as part of my Python Software Engineering Journey.
+A collection of practical Python projects developed as part of my Software Engineering journey.
 
-Planned utilities
+Projects
 
-- Log Analyzer
-- JSON Validator
-- CSV Cleaner
-- PostgreSQL Backup Tool
-- API Health Checker
+CLI Utilities
+Desktop Applications
+Web Applications
+Automation
+Data Processing
+API Integrations
+AI-assisted Development
 
-Expected Technologies
+Roadmap
 
-Python
-argparse
-logging
-pytest
-PyInstaller
+...
